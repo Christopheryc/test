@@ -1,5 +1,6 @@
 ## Welcome to GitHub Pages
-
+测试中文输入法
+我以为你是谁，可是我不喜欢你《的的的》？
 You can use the [editor on GitHub](https://github.com/Christopheryc/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
